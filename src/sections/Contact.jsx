@@ -54,7 +54,7 @@ export default function Contact() {
   }
 
   const socialLinks = [
-    { icon: LinkedinIcon, label: 'LinkedIn', href: 'https://www.linkedin.com/in/aman-ali-82053a2b8/' },
+    { icon: LinkedinIcon, label: 'LinkedIn', href: 'https://www.linkedin.com/in/aman-sah-82053a2b8/' },
     { icon: GithubIcon, label: 'GitHub', href: 'https://github.com/AmanSah078' },
     { icon: FileText, label: 'Resume', href: '/Aman_Resume.pdf', download: true },
   ]
