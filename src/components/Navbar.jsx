@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { Menu, X, Sparkles, Mail } from 'lucide-react'
 
 const GithubIcon = ({ size = 24, className = "" }) => (
-  <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+  <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBolinkx="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
     <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.02c3.18-.35 6.5-1.5 6.5-7a4.6 4.6 0 0 0-1.39-3.21A4.6 4.6 0 0 0 19.18 3s-1.16-.3-3.8 1.5A13.4 13.4 0 0 0 12 4.14a13.4 13.4 0 0 0-3.18.41C6.16 3 5 3 5 3a4.6 4.6 0 0 0-.08 1.79A4.6 4.6 0 0 0 3.53 8c0 5.48 3.32 6.65 6.5 7a4.8 4.8 0 0 0-1 3.02v4"></path>
     <path d="M9 20c-5 1.5-5-2.5-7-3"></path>
   </svg>
@@ -70,7 +70,7 @@ export default function Navbar() {
         <a href="https://github.com/AmanSah078" target="_blank" rel="noreferrer" className="text-white/60 hover:text-white transition">
           <GithubIcon size={18} />
         </a>
-        <a href="https://www.linkedin.com/in/aman-ali-82053a2b8/" target="_blank" rel="noreferrer" className="text-white/60 hover:text-[#0a66c2] transition">
+        <a href="https://www.linkedin.com/in/aman-sah-82053a2b8/" target="_blank" rel="noreferrer" className="text-white/60 hover:text-[#0a66c2] transition">
           <LinkedinIcon size={18} />
         </a>
         <div className="flex items-center gap-2 rounded-full border border-electric-300/15 bg-electric-300/[0.06] px-3 py-1.5 text-xs font-medium text-electric-300">
