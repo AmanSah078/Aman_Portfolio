@@ -123,7 +123,7 @@ export default function Hero() {
                 className="mt-9 flex flex-col items-center justify-center gap-4 sm:flex-row lg:justify-start"
               >
                 <a
-                  href="/Aman_Resume.pdf"
+                  href="My_Resume (21).pdf"
                   target="_blank"
                   rel="noreferrer"
                   className="group inline-flex min-h-14 w-full items-center justify-center gap-3 rounded-full bg-white px-6 font-display text-sm font-bold text-carbon-950 shadow-[0_18px_55px_rgba(255,255,255,.12)] transition duration-300 hover:-translate-y-1 hover:shadow-[0_22px_70px_rgba(84,244,255,.22)] sm:w-auto"
